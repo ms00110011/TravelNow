@@ -24,7 +24,7 @@ body {
 }
 
 .wrapper {
-	background-image: url(https://preview.colorlib.com/theme/vacation/images/xbg_1.jpg.pagespeed.ic.SR1pWxjxwy.webp);
+	background-image: url(https://preview.colorlib.com/theme/vacation/images/bg_1.jpg.webp);
 	background-position: center;
 	height: 45rem;
 	width: 100%;
@@ -280,7 +280,7 @@ body {
 .bestPlaceImage1 {
 	position: relative;
 	/* border: 1px solid red; */
-	background-image: url(https://preview.colorlib.com/theme/vacation/images/xplace-1.jpg.pagespeed.ic.GwxIJdgoC9.webp);
+	background-image: url(https://preview.colorlib.com/theme/vacation/images/place-1.jpg.webp);
 	width: 100%;
 	height: 320px;
 	background-repeat: no-repeat;
@@ -290,7 +290,7 @@ body {
 .bestPlaceImage2 {
 	position: relative;
 	/* border: 1px solid red; */
-	background-image: url(https://preview.colorlib.com/theme/vacation/images/xplace-2.jpg.pagespeed.ic._jEYAIxznV.webp);
+	background-image: url(https://preview.colorlib.com/theme/vacation/images/place-1.jpg.webp);
 	width: 100%;
 	height: 320px;
 	background-repeat: no-repeat;
@@ -300,7 +300,7 @@ body {
 .bestPlaceImage3 {
 	position: relative;
 	/* border: 1px solid red; */
-	background-image: url(https://preview.colorlib.com/theme/vacation/images/xplace-3.jpg.pagespeed.ic.Zhlxq_Fm-Y.webp);
+	background-image: url(https://preview.colorlib.com/theme/vacation/images/place-1.jpg.webp);
 	width: 100%;
 	height: 320px;
 	background-repeat: no-repeat;
@@ -310,7 +310,7 @@ body {
 .bestPlaceImage4 {
 	position: relative;
 	/* border: 1px solid red; */
-	background-image: url(https://preview.colorlib.com/theme/vacation/images/xplace-4.jpg.pagespeed.ic.3oTVZALkMS.webp);
+	background-image: url(https://preview.colorlib.com/theme/vacation/images/place-1.jpg.webp);
 	width: 100%;
 	height: 320px;
 	background-repeat: no-repeat;
@@ -423,7 +423,7 @@ body {
 }
 
 #tourDestinationBox1 {
-	background-image: url(https://preview.colorlib.com/theme/vacation/images/xdestination-1.jpg.pagespeed.ic.TPV5k5yhjl.webp);
+	background-image: url(https://preview.colorlib.com/theme/vacation/images/destination-8.jpg.webp);
 	height: 270px;
 	width: 100%;
 	background-size: cover;
@@ -434,7 +434,7 @@ body {
 }
 
 #tourDestinationBox2 {
-	background-image: url(https://preview.colorlib.com/theme/vacation/images/xdestination-2.jpg.pagespeed.ic.-iSsgx3cAW.webp);
+	background-image: url(https://preview.colorlib.com/theme/vacation/images/destination-8.jpg.webp);
 	height: 270px;
 	width: 100%;
 	background-size: cover;
@@ -446,7 +446,7 @@ body {
 }
 
 #tourDestinationBox3 {
-	background-image: url(https://preview.colorlib.com/theme/vacation/images/xdestination-3.jpg.pagespeed.ic.2JortQzSWj.webp);
+	background-image: url(https://preview.colorlib.com/theme/vacation/images/destination-8.jpg.webp);
 	height: 270px;
 	width: 100%;
 	background-size: cover;
@@ -458,7 +458,7 @@ body {
 }
 
 #tourDestinationBox4 {
-	background-image: url(https://preview.colorlib.com/theme/vacation/images/xdestination-4.jpg.pagespeed.ic.3_zTwVj9y8.webp);
+	background-image: url(https://preview.colorlib.com/theme/vacation/images/destination-8.jpg.webp);
 	height: 270px;
 	width: 100%;
 	background-size: cover;
@@ -470,7 +470,7 @@ body {
 }
 
 #tourDestinationBox5 {
-	background-image: url(https://preview.colorlib.com/theme/vacation/images/xdestination-3.jpg.pagespeed.ic.2JortQzSWj.webp);
+	background-image: url(https://preview.colorlib.com/theme/vacation/images/destination-8.jpg.webp);
 	height: 270px;
 	width: 100%;
 	background-size: cover;
@@ -482,7 +482,7 @@ body {
 }
 
 #tourDestinationBox6 {
-	background-image: url(https://preview.colorlib.com/theme/vacation/images/xdestination-6.jpg.pagespeed.ic.dydIikNxuk.webp);
+	background-image: url(https://preview.colorlib.com/theme/vacation/images/destination-8.jpg.webp);
 	height: 270px;
 	width: 100%;
 	background-size: cover;
@@ -493,7 +493,7 @@ body {
 	position: relative;
 }
 #tourDestinationBox7 {
-	background-image: url(https://preview.colorlib.com/theme/vacation/images/xdestination-7.jpg.pagespeed.ic.Cu_rOZrPR0.webp);
+	background-image: url(https://preview.colorlib.com/theme/vacation/images/destination-8.jpg.webp);
 	height: 270px;
 	width: 100%;
 	background-size: cover;
@@ -504,7 +504,7 @@ body {
 }
 
 #tourDestinationBox8 {
-	background-image: url(https://preview.colorlib.com/theme/vacation/images/xdestination-8.jpg.pagespeed.ic.mdUyGDw-9U.webp);
+	background-image: url(https://preview.colorlib.com/theme/vacation/images/destination-8.jpg.webp);
 	height: 270px;
 	width: 100%;
 	background-size: cover;
@@ -516,7 +516,7 @@ body {
 }
 
 #tourDestinationBox9 {
-	background-image: url(https://preview.colorlib.com/theme/vacation/images/xdestination-9.jpg.pagespeed.ic.8AhEYHCNa7.webp);
+	background-image: url(https://preview.colorlib.com/theme/vacation/images/destination-8.jpg.webp);
 	height: 270px;
 	width: 100%;
 	background-size: cover;
@@ -528,7 +528,7 @@ body {
 }
 
 #tourDestinationBox10 {
-	background-image: url(https://preview.colorlib.com/theme/vacation/images/xdestination-10.jpg.pagespeed.ic.JFoUzc_D4r.webp);
+	background-image: url(https://preview.colorlib.com/theme/vacation/images/destination-8.jpg.webp);
 	height: 270px;
 	width: 100%;
 	background-size: cover;
@@ -540,7 +540,7 @@ body {
 }
 
 #tourDestinationBox11 {
-	background-image: url(https://preview.colorlib.com/theme/vacation/images/xdestination-11.jpg.pagespeed.ic.qXNvQM-CAp.webp);
+	background-image: url(https://preview.colorlib.com/theme/vacation/images/destination-8.jpg.webp);
 	height: 270px;
 	width: 100%;
 	background-size: cover;
@@ -552,7 +552,7 @@ body {
 }
 
 #tourDestinationBox12 {
-	background-image: url(https://preview.colorlib.com/theme/vacation/images/xdestination-12.jpg.pagespeed.ic.1_Kt5kTP2N.webp);
+	background-image: url(https://preview.colorlib.com/theme/vacation/images/destination-8.jpg.webp);
 	height: 270px;
 	width: 100%;
 	background-size: cover;

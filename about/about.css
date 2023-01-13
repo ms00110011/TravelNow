@@ -32,7 +32,7 @@ body {
 
 
 .wrapper {
-    background-image: url(https://preview.colorlib.com/theme/vacation/images/xbg_1.jpg.pagespeed.ic.SR1pWxjxwy.webp);
+    background-image: url(https://preview.colorlib.com/theme/vacation/images/bg_1.jpg.webp);
     background-position: center;
     height: 45rem;
     width:100%;
@@ -345,7 +345,7 @@ body {
 	width: 45%;
 	background-color: white;
 	height: 550px;
-	background-image: url(https://preview.colorlib.com/theme/vacation/images/xabout.jpg.pagespeed.ic.STXElDiRya.webp);
+	background-image: url(https://preview.colorlib.com/theme/vacation/images/about.jpg.webp);
 	background-size: cover;
 	background-position: center;
 	margin-left: 5rem;
@@ -631,7 +631,7 @@ body {
 	background-color: white;
 	/* margin-left: -9%; */
 	height: 550px;
-	background-image: url(https://preview.colorlib.com/theme/vacation/images/xabout.jpg.pagespeed.ic.STXElDiRya.webp);
+	background-image: url(https://preview.colorlib.com/theme/vacation/images/about.jpg.webp);
 	background-size: cover;
 	background-position: center;
 	margin: auto;
